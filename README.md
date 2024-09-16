@@ -12,6 +12,8 @@ Duplicate values were removed from all tables using their IDs. Age has been clas
 
 ## Data Analysis and Result
 
+![Bike Sales](https://github.com/user-attachments/assets/88e3f391-52e9-4334-8e0b-348ee831923c)
+
 1.	Middle-aged customers constitute the largest demographic for bike purchases, accounting for 66% of sales, significantly outpacing adolescents (8%) and older adults (26%). 
 2.	Car owners are twice as likely to purchase bikes compared to those who do not own cars.
 3.	people with Professional Occupations represent the most significant group of bike buyers, comprising 30% of all sales, surpassing other occupational categories.
