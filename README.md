@@ -1,4 +1,4 @@
-# Bike-Sales-Company-Project
+# Bikes-Sales-Company-Project
 
 ----------------
 ## Overview
